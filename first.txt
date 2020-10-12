@@ -1,2 +1,6 @@
 I want this to commit
+
 Hello world
+
+
+FINALLY
